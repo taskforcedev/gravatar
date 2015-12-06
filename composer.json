@@ -1,8 +1,8 @@
 {
   "name": "taskforcedev/gravatar",
-  "description": "Gravatar module.",
+  "description": "Gravatar Module.",
   "keywords": [ "Gravatar", "Laravel" ],
-  "license": "GPL-2.0",
+  "license": "GPL-3.0",
   "type": "project",
   "autoload": {
     "psr-4": {
