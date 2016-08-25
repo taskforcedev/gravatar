@@ -4,6 +4,9 @@
   "keywords": [ "Gravatar", "Laravel" ],
   "license": "GPL-3.0",
   "type": "project",
+  "require-dev": {
+    "squizlabs/php_codesniffer": "2.*"
+  },
   "autoload": {
     "psr-4": {
       "Taskforcedev\\Gravatar\\": "src/"
